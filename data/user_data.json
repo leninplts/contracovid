@@ -1,0 +1,39 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Lenin Jose Mamani Huaylla",
+            "ocupacion": "Desarrollador",
+            "ciudad": "Puno",
+            "genero": true,
+            "verificacion": "moderado"
+        },
+        {
+            "nombre": "Rocio Rubi Mamani Huaylla",
+            "ocupacion": "Economista",
+            "ciudad": "Puno",
+            "genero": false,
+            "verificacion": "leve"
+        },
+        {
+            "nombre": "Liliana Juana Mamani Huaylla",
+            "ocupacion": "Enfermera",
+            "ciudad": "Puno",
+            "genero": false,
+            "verificacion": "leve"
+        },
+        {
+            "nombre": "Willy Abraham Sucasaire Coaquira",
+            "ocupacion": "Desarrollador",
+            "ciudad": "Juliaca",
+            "genero": true,
+            "verificacion": "critico"
+        },
+        {
+            "nombre": "Lenin Mamani Huaylla",
+            "ocupacion": "Desarrollador",
+            "ciudad": "Puno",
+            "genero": true,
+            "verificacion": "no"
+        }
+    ]
+}
